@@ -24,8 +24,7 @@ conditions:
   - include-copyright
 
 limitations:
-  - liability
-  - warranty
+  - no-liability
 
 ---
 

@@ -19,10 +19,9 @@ permissions:
 conditions: []
 
 limitations:
-  - liability
+  - no-liability
   - trademark-use
   - patent-use
-  - warranty
 
 ---
 
