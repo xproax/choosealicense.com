@@ -30,8 +30,7 @@ conditions:
 
 limitations:
   - trademark-use
-  - liability
-  - warranty
+  - no-liability
 
 ---
 

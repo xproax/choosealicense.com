@@ -17,9 +17,8 @@ conditions:
   - include-copyright
 
 limitations:
-  - liability
+  - no-liability
   - patent-use
-  - warranty
 
 ---
 

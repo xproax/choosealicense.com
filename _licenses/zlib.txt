@@ -18,8 +18,7 @@ conditions:
   - document-changes
 
 limitations:
-  - liability
-  - warranty
+  - no-liability
 
 ---
 

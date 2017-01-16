@@ -18,7 +18,7 @@ conditions:
   - include-copyright
 
 limitations:
-  - warranty
+  - no-liability
   - trademark-use
 
 ---
